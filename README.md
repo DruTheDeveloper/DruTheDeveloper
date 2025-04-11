@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DruTheDeveloper
 - 👀 I’m interested in making cool games!
 - 🌱 I’m currently learning C++ and JavaScript
-- 💞️ I’m looking to collaborate on Anything, really!
-- 📫 How to reach me druthedeveloper@gmail.com
+- 💞️ I’m looking to collaborate on anything, really!
+- 📫 How to reach me: druthedeveloper@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---
